@@ -1,5 +1,6 @@
 {
-"fe": "http://localhost:3002",
+"fe": "https://farms.upendra.tech",
+"fe_local": "http://localhost:3002",
 "fe_prod": "https://farms.upendra.tech",
 "fe_old": "https://bpl-fish-farming.web.app"
 }
